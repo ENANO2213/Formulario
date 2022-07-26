@@ -1,0 +1,59 @@
+body{
+    margin: auto;
+    padding: auto;
+    background-color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Open Sans', 'Trebuchet MS', sans-serif;
+}
+
+h1{
+    text-align: center;
+    justify-content: center;
+    color: white;
+    font-style: bold bold;
+}
+
+form{
+    align-items: center;    
+    justify-content: center;
+    color: white;
+    background-color: black;
+    border-color: white;
+    margin-left: 575px;
+}
+
+label{
+    margin-left: 60px;
+    margin-bottom: 20px;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-style: bold;
+}
+
+input{
+    background-color: black;
+    color: white;
+    border-color: white;
+    border-style: dotted;
+    margin-bottom: 20px;
+}
+
+button{
+    margin-top: 40px;
+    margin-left: 70px;
+    padding: 5px;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    border-style: dotted;
+    color: lawngreen;
+    border-color: lawngreen;
+    cursor: pointer;
+    font-style: bold;
+}
+
+.error{
+    color: red;
+    font-size: 20px;
+    font-style: bold;
+}
